@@ -4,7 +4,7 @@
   <img src="capa_p4.png" >
 </p>
 
-<sub>Pandas; Numpy; Scikit-Learn; Matplotlib; Seaborn; XGBoost; Feature Engineering; Feature Scaling; Cross Validation; GridSearchCV; Pipeline<\sub>
+<sub>TAGS: Pandas; Numpy; Scikit-Learn; Matplotlib; Seaborn; XGBoost; Feature Engineering; Feature Scaling; Cross Validation; GridSearchCV; Pipeline<\sub>
 
 ## Objetivos
 
