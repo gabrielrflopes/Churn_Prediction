@@ -30,8 +30,8 @@ A partir de testes com diversos algoritmos de classificação, escolheu-se aprim
 
 Os três modelos preveem a rotatividade de maneira eficiente, porém com diferenças que podem ser proveitosas segundo as circunstâncias específicas da empresa e do problema de negócios. 
 
-- O **SGD Classifier** possui uma performance equilibrada, com uma boa previsão de rotatividade, e uma taxa razoável de Falsos Negativos.
-- O **LightGBM Classifier** é o menos capaz de prever a rotatividade, com uma taxa de Falsos Negativos de aproximadamente 20%. Porém, ele é o melhor na distinção de classes e sua taxa de Falsos Positivos é a mais baixa.
-- Por último, o **XGBoost Classifier** é o melhor modelo para previsão de rotatividade, com uma taxa de quase 90%. Contudo, é o que pior performa na taxa de Falsos Positivos.
+- O **SGD Classifier** possui uma performance equilibrada, com uma boa previsão de rotatividade, e uma taxa razoável de Falsos Negativos. **(Recall:  0.835 ± 0.019)**
+- O **LightGBM Classifier** é o menos capaz de prever a rotatividade, com uma taxa de Falsos Negativos de aproximadamente 20%. Porém, ele é o melhor na distinção de classes e sua taxa de Falsos Positivos é a mais baixa. **(Recall:  0.793 ± 0.019)**
+- Por último, o **XGBoost Classifier** é o melhor modelo para previsão de rotatividade, com uma taxa de quase 90%. Contudo, é o que pior performa na taxa de Falsos Positivos. **(Recall:  0.883 ± 0.022)**
 
 <sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio/tree/main)
