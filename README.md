@@ -1,6 +1,6 @@
 # Previsão de Rotatividade de Clientes (Churn)
 
-<sub>TAGS: Pandas; Numpy; Scikit-Learn; Matplotlib; Seaborn; XGBoost; Feature Engineering; Feature Scaling; Cross Validation; GridSearchCV; Pipeline<\sub>
+<sub>TAGS: Pandas; Numpy; Scikit-Learn; Matplotlib; Seaborn; XGBoost; Feature Engineering; Feature Scaling; Cross Validation; GridSearchCV; Pipeline
 
 <p align="center">
   <img src="capa_p4.png" >
