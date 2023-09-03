@@ -3,7 +3,7 @@
 <sub>TAGS: Pandas; Numpy; Scikit-Learn; Matplotlib; Seaborn; XGBoost; Feature Engineering; Feature Scaling; Cross Validation; GridSearchCV; Modeling Pipeline
 
 <p align="center">
-  <img src="capa_p4.jpg" >
+  <img src="capa_p4.png" >
 </p>
 
 **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Churn_Prediction/blob/main/Previs%C3%A3o_de_Rotatividade_em_uma_Empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)**
